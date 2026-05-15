@@ -1,1 +1,1 @@
-# Geekathon25-inventory-management
+# Drug-inventory-management-system
